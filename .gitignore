@@ -1,2 +1,11 @@
-telegram_bot.rar
+# .env file
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Database file
 rps_bot.db
